@@ -25,3 +25,7 @@ To run the A/B Testing Dashboard locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/ab-testing-dashboard.git
    cd ab-testing-dashboard
+2. **Create a Virtual Environment:**:
+    ```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
