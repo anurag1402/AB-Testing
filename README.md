@@ -27,5 +27,5 @@ To run the A/B Testing Dashboard locally, follow these steps:
    cd ab-testing-dashboard
 2. **Create a Virtual Environment:**:
     ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
